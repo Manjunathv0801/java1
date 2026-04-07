@@ -1,1 +1,1 @@
-# java1
+print("meow"
